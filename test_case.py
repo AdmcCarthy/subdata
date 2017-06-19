@@ -12,5 +12,11 @@ def main():
     digfiles.parse_csv(datafile)
 
 
+def test():
+    
+    root = get_root(article_file)
+    data = get_authors(root)
+
+
 if __name__ == '__main__':
-    main()
+    test()
