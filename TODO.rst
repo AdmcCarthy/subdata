@@ -6,7 +6,16 @@ Things to be done
 Dataset ideas
 -------------
 
+^^^
+NPD
+^^^
 
+Data can be downloaded from FactPages as .csv or from as an Internet service. REST-API in XML, JSON(P), CSV and YAML formats. (The data hotel retrieves its content from the FactPages.)
+
+http://data.norge.no/data/oljedirektoratet/oljedirektoratet
+
+Terms and conditions:
+http://data.norge.no/nlod/en/1.0
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 British Geological Survey
