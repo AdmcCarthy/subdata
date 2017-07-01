@@ -56,3 +56,26 @@ We also request that you observe and retain any copyright or related notices tha
 
 Geoscience Australia
 http://dbforms.ga.gov.au/www/npm.well.search
+
+^^^^^^^^^^^
+Energistics
+^^^^^^^^^^^
+
+WITSML data formats
+
+Data standards
+
+http://w3.energistics.org/energyML/data/witsml/v2.0/doc/witsml_schema_overview.html
+
+Example datasets
+
+http://w3.energistics.org/example_data_public/Hydro_v1.2/v1.2_DemoWell2_%28Well123%29/index.html
+
+Other examples
+
+http://www.energistics.org/drilling-completions-interventions/for-developers
+
+PRODLM
+
+http://w3.energistics.org/energyML/data/prodml/v2.0/doc/prodml_schema_overview.html
+
