@@ -2,6 +2,16 @@
 Things to be done
 =================
 
+---------------
+Format agnositc
+---------------
+
+Use tablib to create outputs in all formats.
+
+https://github.com/kennethreitz/tablib
+
+Can do everything apart from XML.
+
 -------------
 Dataset ideas
 -------------
