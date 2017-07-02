@@ -16,6 +16,13 @@ Can do everything apart from XML.
 Dataset ideas
 -------------
 
+^^^^^^^^^^^^^
+Google Trends
+^^^^^^^^^^^^^
+
+https://trends.google.com/trends/explore?date=all&q=price%20of%20oil,%2Fm%2F0g5vy,%2Fm%2F02rw4hw,climate%20change,%2Fm%2F0k5b5
+
+
 ^^^
 NPD
 ^^^
